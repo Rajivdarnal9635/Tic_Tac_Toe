@@ -10,11 +10,11 @@ Copyright (C) BytesClub 2017
 2. [Recommended Reading](#recommended-reading)
 3. [Academic Honesty](#academic-honesty)
 4. [Prerequisite](#prerequisite)
-4. [Getting Started](#getting-started)
-5. [The Gameplay](#the-gameplay)
-6. [Helper.H](#helperh)
-7. [Your task](#your-task)
-8. [How to Submit](#how-to-submit)
+5. [Getting Started](#getting-started)
+6. [The Gameplay](#the-gameplay)
+7. [Helper.H](#helperh)
+8. [Your task](#your-task)
+9. [How to Submit](#how-to-submit)
 
 ### Objectives
 * Getting comfortable with Linux Environment
